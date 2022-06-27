@@ -1,6 +1,6 @@
 # digital Read
 
-<a href="" target="_blank"><img src="https://i.postimg.cc/0rxJzYcX/dread-bb.png" alt="dread-bb"/></a> <a href="" target="_blank"><img src="https://i.postimg.cc/q6ktWrNH/dread-esquem-tico.png" alt="dread-esquem-tico"/></a><br/><br/>
+[![dread-bb.png](https://i.postimg.cc/1RV0YM6S/dread-bb.png)](https://postimg.cc/0rxJzYcX)
 
 Lectura de entradas digitales
 ## Hardware y software necesarios
@@ -18,3 +18,5 @@ Para el funcionamiento del programa se utilizan:
 | ----------- |
 | Resistencia de 10k |
 | Push Button NA |
+
+[![dread-esquem-tico.png](https://i.postimg.cc/Y0F1Gqk0/dread-esquem-tico.png)](https://postimg.cc/q6ktWrNH)
